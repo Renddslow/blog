@@ -1,0 +1,12 @@
+{
+	"slug": "another-test",
+	"title": "Another Test",
+	"category": "Test",
+	"author": {
+		"name": "Matt McElwee",
+		"slug": "matt-mcelwee"
+	},
+	"headerImage": "https://images.unsplash.com/photo-1530487834809-19eca6fc2de2?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ea4e3a7efa5562250e23e8e967d7b55a&auto=format&fit=crop&w=934&q=80",
+	"published": 1530584127000,
+	"description": "Just a test article"
+}
